@@ -1,0 +1,26 @@
+body{background-image: url(../src/imagem/oculos2.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+margin:0 auto;
+}
+.centro {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    text-align:center;
+    color: white;
+    
+    /* pura mágica */
+    position: absolute;
+    top: 50%; /* posiciona na metade da tela */
+    margin-top: -25px; /* e retrocede metade da altura */
+  }
+
+.titulo {
+  padding-left: 10px;
+}
+.pe{
+  padding-left: 10px;
+}
+
